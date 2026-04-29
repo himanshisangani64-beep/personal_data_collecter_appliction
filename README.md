@@ -24,9 +24,11 @@
 
 <h2>Project Structure</h2>
 
-project-folder Name/
-│── personal_data_collecter.py
+<div>  
+project-folder Name/</br>
+│── personal_data_collecter.py</br>
 │── README.md
+</div>
 
 <h2>Conclusion</h2>
 
