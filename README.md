@@ -33,7 +33,7 @@ project-folder Name/</br>
 
 <h2>Output</h2>
 
-<img src="personal_data_collecter.jpg" width="300px",height="300px"/>
+<img src="personal_data_collecter.jpg" width="300"/>
 
 <h2>Conclusion</h2>
 
