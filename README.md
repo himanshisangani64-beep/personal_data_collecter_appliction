@@ -30,6 +30,10 @@ project-folder Name/</br>
 │── README.md
 </div>
 
+<h2>Output</h2>
+
+<img src="personal_data_collecter.jpg" width="300px",width="300px/>
+
 <h2>Conclusion</h2>
 
 <p>This project helps in understanding basic Python concepts in a practical way and is very useful for beginners.</p>
