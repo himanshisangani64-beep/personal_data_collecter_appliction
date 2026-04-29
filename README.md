@@ -26,13 +26,14 @@
 
 <div>  
 project-folder Name/</br>
+│── personal_data_collecter.jpg</br>
 │── personal_data_collecter.py</br>
 │── README.md
 </div>
 
 <h2>Output</h2>
 
-<img src="personal_data_collecter.jpg" width="300px",width="300px/>
+<img src="personal_data_collecter.jpg" width="300px",height="300px"/>
 
 <h2>Conclusion</h2>
 
